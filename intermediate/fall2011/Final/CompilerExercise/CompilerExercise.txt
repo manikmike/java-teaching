@@ -1,0 +1,7 @@
+The actual assignment given was from Chapter 22 of JHTP 8/e
+and is copyrighted.
+
+The most recent version of the Compiler Exercise from
+Chapter 21 of JHTP 11/e and can be found online here:
+
+https://deitel.com/wp-content/uploads/2020/02/compiler.pdf
